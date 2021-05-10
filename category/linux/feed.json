@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo • All posts by \"linux\" category",
+    "description": "",
+    "home_page_url": "https://blog.asmyun.com",
+    "items": [
+        {
+            "id": "https://blog.asmyun.com/2021/01/04/linux/linux-apt/",
+            "url": "https://blog.asmyun.com/2021/01/04/linux/linux-apt/",
+            "title": "Linux-APT使用",
+            "date_published": "2021-01-04T05:36:06.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "https://blog.asmyun.com/2021/01/04/linux/linux-yum/",
+            "url": "https://blog.asmyun.com/2021/01/04/linux/linux-yum/",
+            "title": "Linux-YUM使用",
+            "date_published": "2021-01-04T05:35:02.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
+}
