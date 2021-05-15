@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Hexo • Posts by &#34;virtual&#34; category</title>
+        <link>https://blog.asmyun.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 10 May 2021 13:35:02 +0800</pubDate>
+        <lastBuildDate>Mon, 10 May 2021 13:35:02 +0800</lastBuildDate>
+        <category>java</category>
+        <category>vmware</category>
+        <item>
+            <guid isPermalink="true">https://blog.asmyun.com/2021/05/10/virtual/vmware-install/</guid>
+            <title>VMware安装</title>
+            <link>https://blog.asmyun.com/2021/05/10/virtual/vmware-install/</link>
+            <category>vmware</category>
+            <pubDate>Mon, 10 May 2021 13:35:02 +0800</pubDate>
+            <description><![CDATA[ &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vmware%E7%9A%84%E5%AE%89%E8%A3%85&#34;&gt;VMware 的安装&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;vmware的安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#vmware的安装&#34;&gt;#&lt;/a&gt; VMware 的安装&lt;/h5&gt;
+&lt;p&gt;链接: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMTh1cDg5d1dMcHF5Vl91QS1VRGtXRGc=&#34;&gt;https://pan.baidu.com/s/18up89wWLpqyV_uA-UDkWDg&lt;/span&gt; 提取码: gesa 复制这段内容后打开百度网盘手机 App，操作更方便哦&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

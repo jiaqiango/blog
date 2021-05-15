@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo • All posts by \"vmware\" tag",
+    "description": "",
+    "home_page_url": "https://blog.asmyun.com",
+    "items": [
+        {
+            "id": "https://blog.asmyun.com/2021/05/10/virtual/vmware-install/",
+            "url": "https://blog.asmyun.com/2021/05/10/virtual/vmware-install/",
+            "title": "VMware安装",
+            "date_published": "2021-05-10T05:35:02.000Z",
+            "content_html": "<ul>\n<li><a href=\"#vmware%E7%9A%84%E5%AE%89%E8%A3%85\">VMware 的安装</a></li>\n</ul>\n<h5 id=\"vmware的安装\"><a class=\"markdownIt-Anchor\" href=\"#vmware的安装\">#</a> VMware 的安装</h5>\n<p>链接: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMTh1cDg5d1dMcHF5Vl91QS1VRGtXRGc=\">https://pan.baidu.com/s/18up89wWLpqyV_uA-UDkWDg</span> 提取码: gesa 复制这段内容后打开百度网盘手机 App，操作更方便哦</p>\n",
+            "tags": [
+                "vmware"
+            ]
+        }
+    ]
+}
